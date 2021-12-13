@@ -1,0 +1,14 @@
+.timeline_dot{
+    color: black !important;
+    border-color: var(--main-color) !important;
+    font-size: small !important;
+    padding: 2px !important;
+}
+
+.MuiTimelineConnector-root{
+    background-color: #eee !important;
+}
+
+.separator_padding{
+    padding-left: 18px !important;
+}
