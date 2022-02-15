@@ -28,7 +28,7 @@ export default {
       icon: <TwitterIcon />,
     },
     LinkedIn: {
-      link: "https://www.linkedin.com/YahgozieNwosu",
+      link: "https://www.linkedin.com/in/Yahgozie",
       text: "MyLinkedIn",
       icon: <LinkedInIcon />,
     },
